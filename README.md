@@ -1,0 +1,2 @@
+# server
+full french server
